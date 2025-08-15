@@ -1,4 +1,4 @@
-Текущая версия Майнкрафта: 1.21.4  
+Текущая версия Майнкрафта: 1.21.4 (Fabric)
 
 По ссылке https://github.com/heltixgit/mod/raw/refs/heads/main/heltix-mod.jar всегда можно скачать последнюю версию мода  
 
